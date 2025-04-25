@@ -8,7 +8,7 @@ just a normal github user.
 # ABOUT ME
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&text=STAR1XR GITHUB&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=STAR1XR GITHUB&height=100&section=header"/>
 </p>
 
 <h2> 🔧 &nbsp; FAVOURITE TOOLS</h2>
