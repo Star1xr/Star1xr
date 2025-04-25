@@ -6,6 +6,10 @@
 
 ![Star1xr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Star1xr&show_icons=true&theme=transparent)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Star1xr&show_icons=true&theme=transparent" alt="Star1xr's GitHub stats">
+</p>
+
 I'm just a normal github user.
 
 <h2> 🔧 &nbsp; FAVOURITE TOOLS</h2>
