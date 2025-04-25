@@ -1,10 +1,9 @@
 
 
-# STATISTICS
+# ABOUT ME
 
 ![Star1xr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Star1xr&show_icons=true&theme=transparent)
 
-# ABOUT ME
 I'm just a normal github user.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=WELCOME%20TO&desc=STAR1XR'S%20GITHUB%20&animation=fadeIn&reversal=false&fontAlign=50&fontAlignY=24&descAlignY=47"/>
