@@ -8,8 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Star1xr&show_icons=true&theme=transparent" alt="Star1xr's GitHub stats">
 </p>
 
-I'm just a normal github user.
-
 <h2> 🔧 &nbsp; FAVOURITE TOOLS</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
