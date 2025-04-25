@@ -6,8 +6,7 @@
 
 # ABOUT ME
 I'm just a normal github user.
-
-https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=WELCOME%20TO&desc=STAR1XR'S%20GITHUB%20&animation=fadeIn&reversal=false&fontAlign=50&fontAlignY=24&descAlignY=47
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=WELCOME%20TO&desc=STAR1XR'S%20GITHUB%20&animation=fadeIn&reversal=false&fontAlign=50&fontAlignY=24&descAlignY=47"
 
 <h2> 🔧 &nbsp; FAVOURITE TOOLS</h2>
 <p align="left">
