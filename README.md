@@ -4,12 +4,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=WELCOME%20TO&desc=STAR1XR'S%20GITHUB%20&animation=fadeIn&reversal=false&fontAlign=50&fontAlignY=24&descAlignY=47"/>
 
-<h2>  &nbsp; FAVOURITE TOOLS</h2>
+<h2>FAVOURITE TOOLS</h2>
 Favourite tools that i use
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 
-<h2>CODING STRAIGHT SH*T</h2>
+<h>CODING STRAIGHT SH*T</h>
 
